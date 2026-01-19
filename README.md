@@ -1,16 +1,15 @@
-# React + Vite
+# React Auth Dashboard 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive React admin dashboard with authentication and modern 3D-style UI. Built with **React, Tailwind CSS, and Context API**.  
 
-Currently, two official plugins are available:
+✨ **Features:**  
+- Secure **Login & Registration** with Protected Routes 🔐  
+- **Dashboard Overview**: Total Users, Revenue & Orders 📊  
+- **User Management**: Add, Edit, Delete & Status Control 👥  
+- **Reports Management**: Add, Edit, Filter & Track Monthly Reports 📈  
+- **3D & Animated UI** with Gradient Backgrounds & Hover Effects 🌈  
+- **Responsive Design** – Works perfectly on Mobile & Desktop 📱💻  
+- **Form Validation** – Secure & Error-Free Inputs ✅  
+- **Editable Tables & Action Buttons** – Full Control at a Glance 📝  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔥 Perfect for developers, startups & anyone building modern admin dashboards!
