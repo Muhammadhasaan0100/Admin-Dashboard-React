@@ -11,7 +11,11 @@ import ProviderContext from "./components/AuthContext"
 function App() {
 
   return (
+<<<<<<< HEAD
     <BrowserRouter >
+=======
+    <BrowserRouter>
+>>>>>>> f6b213adaaa14703dbaa056854b59d76adce6ac5
         <ProviderContext>
       <Routes>
         <Route path="/" element={<Login />} />
